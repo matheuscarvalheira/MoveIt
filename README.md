@@ -8,14 +8,11 @@
 
 #  💻Interface Web
 
-![image-20210228153656136](C:\Users\Matheus\AppData\Roaming\Typora\typora-user-images\image-20210228153656136.png)
-
-![image-20210228153720233](C:\Users\Matheus\AppData\Roaming\Typora\typora-user-images\image-20210228153720233.png)
-
-![image-20210228153853896](C:\Users\Matheus\AppData\Roaming\Typora\typora-user-images\image-20210228153853896.png)
-
-![image-20210228153924786](C:\Users\Matheus\AppData\Roaming\Typora\typora-user-images\image-20210228153924786.png)
-
+<p>
+  <img src="./public/assets/Home.png" width="470"/>
+  <img src="./public/assets/NewChallenge.png" width="470"/>
+  <img src="./public/assets/LevelUp.png" width="470" center/>
+</p>
 
 
 <h2 align="left"> 📥 Para baixar o Layout: </h2>
