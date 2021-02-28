@@ -1,11 +1,9 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+  <img src="./public/logo-full.svg"/>
 </p>
 
 
-
 > Next Level Week #04 #NLW @Rocketseat
-
 
 
 #  💻Interface Web
