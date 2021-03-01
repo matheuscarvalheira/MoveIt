@@ -26,7 +26,7 @@
 
 # 🔎 Tecnologias usadas:
 
-This project was made using the follow technologies:
+Esse projeto foi feito usando essas tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
 
